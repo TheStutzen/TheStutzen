@@ -35,8 +35,14 @@
 
 ### 📊 GitHub Статистика
 ![Maxim GitHub stats](https://github-readme-stats.vercel.app/api?username=TheStutzen&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheStutzen&theme=dark)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=TheStutzen&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+---
+![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 ---
 
 ### 🌐 Соцсети
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge)](http://t.me/stutzen)
+
+![](https://komarev.com/ghpvc/?username=TheStutzen&color=blue)
