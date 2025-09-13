@@ -6,7 +6,8 @@
 
 - 🌍 Живу в **России**  
 - ✉️ Для связи: **[rootr@bk.ru](mailto:rootr@bk.ru)**  
-- 🚀 Работаю над собственными проектами: [Свободный доступ 🪁](https://t.me/SpareAccess_bot), [LiveSklad](https://t.me/livesklad_tg_bot) 
+- 🚀 Работаю над собственными проектами: [Свободный доступ 🪁](https://t.me/SpareAccess_bot), [LiveSklad](https://t.me/livesklad_tg_bot)
+- 📦 Open-source проект: [Parcel Tracker Bot](https://github.com/TheStutzen/ParcelTracker)
 - 🧠 Изучаю: **JavaScript**, **Python**  
 - ⚡ Интересуюсь: 
     - Backend-разработкой 🖥️  
