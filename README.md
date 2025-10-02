@@ -8,6 +8,7 @@
 - ✉️ Для связи: **[rootr@bk.ru](mailto:rootr@bk.ru)**  
 - 🚀 Работаю над собственными проектами: [UpTimer](https://uptimer.online/), [Посылочка](https://t.me/trackitpackage_bot)
 - 📦 Open-source проект: [Parcel Tracker Bot](https://github.com/TheStutzen/ParcelTracker)
+- 💼 Ранее разработал и продал проекты: Свободный доступ🪁, LiveSklad Bot
 - 🧠 Изучаю: **JavaScript**, **Python**  
 - ⚡ Интересуюсь: 
     - Backend-разработкой 🖥️  
