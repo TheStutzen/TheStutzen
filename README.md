@@ -9,7 +9,7 @@
 - 🚀 Работаю над собственными проектами: [UpTimer](https://uptimer.online/), [Посылочка](https://t.me/trackitpackage_bot)
 - 📦 Open-source проект: [Parcel Tracker Bot](https://github.com/TheStutzen/ParcelTracker)
 - 💼 Ранее разработал и продал проекты: Свободный доступ🪁, LiveSklad Bot
-- 🧠 Изучаю: **JavaScript**, **Python**  
+- 🧠 Изучаю: **Rust**, **JavaScript**, **Python**  
 - ⚡ Интересуюсь: 
     - Backend-разработкой 🖥️  
     - Телеграм-ботами 🤖  
@@ -20,6 +20,7 @@
 ---
 
 ### 🛠️ Технологии и инструменты
+![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
