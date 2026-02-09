@@ -6,7 +6,7 @@
 
 - 🌍 Живу в **России**  
 - ✉️ Для связи: **[rootr@bk.ru](mailto:rootr@bk.ru)**  
-- 🚀 Работаю над собственными проектами: [UpTimer](https://uptimer.online/), [Посылочка](https://t.me/trackitpackage_bot)
+- 🚀 Работаю над собственными проектами: [UpTimer](https://uptimer.online/), [CS.Eye](https://t.me/cs_eye_bot), [Посылочка](https://t.me/trackitpackage_bot), 
 - 📦 Open-source проект: [Parcel Tracker Bot](https://github.com/TheStutzen/ParcelTracker)
 - 💼 Ранее разработал и продал проекты: Свободный доступ🪁, LiveSklad Bot
 - 🧠 Изучаю: **Rust**, **JavaScript**, **Python**  
