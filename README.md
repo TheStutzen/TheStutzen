@@ -6,7 +6,7 @@
 
 - 🌍 Живу в **России**  
 - ✉️ Для связи: **[rootr@bk.ru](mailto:rootr@bk.ru)**  
-- 🚀 Работаю над собственным проектом: [SpareAccess](https://t.me/spareaccess_bot), 
+- 🚀 Работаю над собственным проектом: [SpareAccess](https://spareaccess.com/), 
 - 📦 Open-source проект: [Parcel Tracker Bot](https://github.com/TheStutzen/ParcelTracker)
 - 🧠 Изучаю: **Rust**, **JavaScript**, **Python**  
 - ⚡ Интересуюсь: 
